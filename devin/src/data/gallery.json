@@ -1,0 +1,26 @@
+[
+    {
+        "img" : "../assets/images/g1.png",
+        "alt" : "devin"
+    },
+    {
+        "img" : "../assets/images/g2.png",
+        "alt" : "devin"
+    },
+    {
+        "img" : "../assets/images/g3.png",
+        "alt" : "devin"
+    },
+    {
+        "img" : "../assets/images/g4.png",
+        "alt" : "devin"
+    },
+    {
+        "img" : "../assets/images/g5.png",
+        "alt" : "devin"
+    },
+    {
+        "img" : "../assets/images/g6.png",
+        "alt" : "devin"
+    }
+]
